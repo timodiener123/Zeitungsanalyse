@@ -1,0 +1,58 @@
+========================================================================
+SEMANTISCHE FELDANALYSE: »BOYKOTT«
+========================================================================
+
+── KORPUSVORKOMMEN ─────────────────────────────────────────────────────
+  Suche (Regex): \b(boykott(?:ier[a-zäöü]*|s)?|boicott\w*|bojkott\w*)\b
+  Treffer gesamt          : 15
+  Dokumente mit Vorkommen : 7 / 143
+  Relative Häufigkeit     : 0.05 pro 10.000 Token
+
+── TOP KOLLOKATOREN (sortiert nach G²) ─────────────────────────────────
+  Fenstergröße: ±5 Tokens
+
+  Rang  Kollokator               Freq        G²   t-Score     PMI     MI³
+  ----------------------------------------------------------------
+  1     juden                       3     32.44    1.7289   9.084  12.254
+  2     verein                      2     28.97    1.4138  11.778  13.778
+  3     geschäfte                   2     28.33    1.4137  11.550  13.550
+  4     feine                       2     24.34    1.4129  10.117  12.117
+  5     bürger                      2     23.71    1.4127   9.889  11.889
+  6     jüdischen                   2     23.32    1.4126   9.749  11.749
+
+── HÄUFIGE BIGRAMME IM KONTEXT ─────────────────────────────────────────
+  gewalt sei                                      1×
+  sei etwa                                     1×
+  terror nen                                      1×
+  nen beten                                    1×
+  gegnerschaft jüdische                                 1×
+  jüdische liste                                    1×
+  liste kinderheim                               1×
+  juden kampforganisation                        1×
+  wegen herrlich                                 1×
+  läge juden                                    1×
+  juden deutscher                                1×
+  deutscher gaststätten                              1×
+  verein betr                                     1×
+  feine zigarren                                 1×
+
+── KWIC-KONKORDANZ (max. 50 Belege) ─────────────────────────────
+  Dokument                       ← Kontext                           KEYWORD      Kontext →
+  ------------------------------------------------------------------------------------------
+  OCR 10. Ausgabe 1930-1.txt     abrü den februar der inden zu einem [BOYKOTT] der geschäffe der das landgericht z
+  OCR 10. Ausgabe 1930-1.txt     ung versteht glaubt mit gewalt oder [BOYKOTT] sei etwa zu errei hsasbergen den dj
+  OCR 15. Ausgabe 1931-1.txt      vor einigen monaten den terror und [BOYKOTT] nen beten was bei ihnen bisshex man
+  OCR 22. Ausgabe 1930-1.txt     fritz jursch in o nab ü zu einen    [BOYKOTT] der geschäfte der jüdischen bürger 
+  OCR 22. Ausgabe 1930-1.txt     jofort u im zweifel dex eie mit dem [BOYKOTT] feine me jich daraus nwdeis gerade 
+  OCR 26. Ausgabe 1930-1-1.txt   g machen können wenn dr schier wird [BOYKOTTIERT] weil es fast aussc liesslich von ma
+  OCR 26. Ausgabe 1930-1-1.txt   e sc härffite gegnerschaft jüdische [BOYKOTT] liste kinderheim hartmann haus heil
+  OCR 26. Ausgabe 1930-1-1.txt    den bädern die von den juden nicht [BOYKOTTIERT] wer kampforganisation den central v
+  OCR 26. Ausgabe 1930-1-1.txt   gericht darf die juden wegen dieser [BOYKOTT] den herrlich erholen kann für neue 
+  OCR 30. Ausgabe 1930-1.txt     e veranlassung zu grunde läge juden [BOYKOTT] deutscher gaststätten die zeugnisse
+  OCR 30. Ausgabe 1930-1.txt     in ergänzung ihrer boykottliste zum [BOYKOTT] auf die redaktion weil ein restaura
+  OCR 30. Ausgabe 1930-1.txt     ür bezahlen uns einander verein zum [BOYKOTT] des betr restaurants aufzufordern z
+  OCR 30. Ausgabe 1930-1.txt     nau mit deutschfeindlich de t sonst [BOYKOTT] feine zigarren mehr donner und dori
+  OCR 45. Ausgabe 1930-1.txt     rossvieh kälber schweine die preise [BOYKOTT] das sind unsere losungen nicht für 
+  OCR 08. Ausgabe 1930-2.txt     verunglimpfungen der zuden zu einem [BOYKOTT] der geschäfte der jüdischen bürger 
+
+========================================================================

@@ -1,0 +1,170 @@
+{
+  "juden": {
+    "treffer": 2461,
+    "dokumente": 132,
+    "top20_kollokatoren_G2": [
+      {
+        "Kollokator": "jude",
+        "G2": 973.6529,
+        "t-Score": 10.063,
+        "PMI": 8.1115
+      },
+      {
+        "Kollokator": "juden",
+        "G2": 726.9275,
+        "t-Score": 9.7568,
+        "PMI": 6.7409
+      },
+      {
+        "Kollokator": "kaufen",
+        "G2": 706.9269,
+        "t-Score": 8.4582,
+        "PMI": 8.291
+      },
+      {
+        "Kollokator": "nie",
+        "G2": 654.0001,
+        "t-Score": 8.6698,
+        "PMI": 7.5047
+      },
+      {
+        "Kollokator": "gebot",
+        "G2": 580.7445,
+        "t-Score": 6.9899,
+        "PMI": 9.4362
+      },
+      {
+        "Kollokator": "deutschen",
+        "G2": 345.4552,
+        "t-Score": 7.4085,
+        "PMI": 5.7395
+      },
+      {
+        "Kollokator": "deutsche",
+        "G2": 308.1516,
+        "t-Score": 6.8832,
+        "PMI": 5.9052
+      },
+      {
+        "Kollokator": "jüdischen",
+        "G2": 306.7416,
+        "t-Score": 6.3436,
+        "PMI": 6.748
+      },
+      {
+        "Kollokator": "jüdische",
+        "G2": 301.0458,
+        "t-Score": 6.0414,
+        "PMI": 7.1993
+      },
+      {
+        "Kollokator": "rasse",
+        "G2": 228.8887,
+        "t-Score": 4.8814,
+        "PMI": 8.1264
+      },
+      {
+        "Kollokator": "staatsbürger",
+        "G2": 209.5513,
+        "t-Score": 4.2361,
+        "PMI": 9.3394
+      },
+      {
+        "Kollokator": "geschäfte",
+        "G2": 204.719,
+        "t-Score": 4.773,
+        "PMI": 7.715
+      },
+      {
+        "Kollokator": "volk",
+        "G2": 178.0035,
+        "t-Score": 5.5217,
+        "PMI": 5.3873
+      },
+      {
+        "Kollokator": "christen",
+        "G2": 172.4882,
+        "t-Score": 4.3398,
+        "PMI": 7.8324
+      },
+      {
+        "Kollokator": "glaubens",
+        "G2": 164.7122,
+        "t-Score": 3.8654,
+        "PMI": 8.9914
+      },
+      {
+        "Kollokator": "berliner",
+        "G2": 154.2181,
+        "t-Score": 4.5372,
+        "PMI": 6.6578
+      },
+      {
+        "Kollokator": "sei",
+        "G2": 151.1763,
+        "t-Score": 5.1543,
+        "PMI": 5.2696
+      },
+      {
+        "Kollokator": "römisch",
+        "G2": 144.9747,
+        "t-Score": 3.4595,
+        "PMI": 9.5509
+      },
+      {
+        "Kollokator": "presse",
+        "G2": 143.8138,
+        "t-Score": 4.8915,
+        "PMI": 5.5268
+      },
+      {
+        "Kollokator": "deutscher",
+        "G2": 142.155,
+        "t-Score": 4.3185,
+        "PMI": 6.7544
+      }
+    ]
+  },
+  "boykott": {
+    "treffer": 15,
+    "dokumente": 7,
+    "top20_kollokatoren_G2": [
+      {
+        "Kollokator": "juden",
+        "G2": 32.4416,
+        "t-Score": 1.7289,
+        "PMI": 9.0841
+      },
+      {
+        "Kollokator": "verein",
+        "G2": 28.9709,
+        "t-Score": 1.4138,
+        "PMI": 11.7776
+      },
+      {
+        "Kollokator": "geschäfte",
+        "G2": 28.3338,
+        "t-Score": 1.4137,
+        "PMI": 11.5496
+      },
+      {
+        "Kollokator": "feine",
+        "G2": 24.3432,
+        "t-Score": 1.4129,
+        "PMI": 10.1166
+      },
+      {
+        "Kollokator": "bürger",
+        "G2": 23.7108,
+        "t-Score": 1.4127,
+        "PMI": 9.889
+      },
+      {
+        "Kollokator": "jüdischen",
+        "G2": 23.3211,
+        "t-Score": 1.4126,
+        "PMI": 9.7486
+      }
+    ]
+  }
+}

@@ -1,0 +1,143 @@
+========================================================================
+SEMANTISCHE FELDANALYSE: »JUDEN«
+========================================================================
+
+── KORPUSVORKOMMEN ─────────────────────────────────────────────────────
+  Suche (Regex): \b(jude[ns]?|jüd(?:in|innen|isch[a-zäöü]*)?)\b
+  Treffer gesamt          : 2,461
+  Dokumente mit Vorkommen : 132 / 143
+  Relative Häufigkeit     : 8.42 pro 10.000 Token
+
+── TOP KOLLOKATOREN (sortiert nach G²) ─────────────────────────────────
+  Fenstergröße: ±5 Tokens
+
+  Rang  Kollokator               Freq        G²   t-Score     PMI     MI³
+  ----------------------------------------------------------------
+  1     jude                      102    973.65   10.0630   8.111  21.456
+  2     juden                      97    726.93    9.7568   6.741  19.941
+  3     kaufen                     72    706.93    8.4582   8.291  20.631
+  4     nie                        76    654.00    8.6698   7.505  20.000
+  5     gebot                      49    580.74    6.9899   9.436  20.666
+  6     deutschen                  57    345.46    7.4085   5.739  17.405
+  7     deutsche                   49    308.15    6.8832   5.905  17.135
+  8     jüdischen                  41    306.74    6.3436   6.748  17.463
+  9     jüdische                   37    301.05    6.0414   7.199  17.618
+  10    rasse                      24    228.89    4.8814   8.126  17.296
+  11    staatsbürger               18    209.55    4.2361   9.339  17.679
+  12    geschäfte                  23    204.72    4.7730   7.715  16.762
+  13    volk                       32    178.00    5.5217   5.387  15.387
+  14    christen                   19    172.49    4.3398   7.832  16.328
+  15    glaubens                   15    164.71    3.8654   8.991  16.805
+  16    berliner                   21    154.22    4.5372   6.658  15.442
+  17    sei                        28    151.18    5.1543   5.270  14.884
+  18    römisch                    12    144.97    3.4595   9.551  16.721
+  19    presse                     25    143.81    4.8915   5.527  14.815
+  20    deutscher                  19    142.16    4.3185   6.754  15.250
+  21    zeitung                    22    130.40    4.5972   5.654  14.572
+  22    hugo                       13    125.16    3.5932   8.186  15.587
+  23    warenhäuser                14    125.00    3.7241   7.736  15.351
+  24    deutschland                22    124.17    4.5831   5.449  14.368
+  25    geld                       21    123.41    4.4892   5.617  14.402
+  26    herr                       27    123.34    4.9905   4.659  14.169
+  27    richter                    16    123.08    3.9665   6.901  14.901
+  28    dur                        21    119.92    4.4811   5.498  14.282
+  29    hilferding                 13    114.33    3.5876   7.647  15.048
+  30    berlin                     19    111.45    4.2697   5.610  14.106
+  31    niemals                    14    109.00    3.7117   6.966  14.581
+  32    firmen                     13    108.73    3.5836   7.360  14.761
+  33    ganz                       23    107.50    4.6162   4.739  13.786
+  34    geschäften                 12    107.08    3.4478   7.733  14.903
+  35    einfluss                   12    103.78    3.4456   7.551  14.721
+  36    namen                      16    102.85    3.9381   6.014  14.014
+  37    steht                      18    102.25    4.1474   5.477  13.817
+  38    kapitalismus                9     97.72    2.9938   8.924  15.264
+  39    marx                        9     96.70    2.9935   8.860  15.200
+  40    sozialismus                 9     96.70    2.9935   8.860  15.200
+  41    firma                      15     96.49    3.8132   6.017  13.831
+  42    seite                      20     95.93    4.3149   4.830  13.474
+  43    arbeiter                   17     94.63    4.0251   5.394  13.569
+  44    mark                       21     92.67    4.3863   4.545  13.330
+  45    cohn                        9     90.15    2.9913   8.430  14.769
+  46    stadt                      30     90.01    4.9807   3.463  13.277
+  47    wächter                    24     87.93    4.5884   3.979  13.149
+  48    heute                      19     87.57    4.1903   4.692  13.188
+  49    laufenberg                  5     86.90    2.2357  12.536  17.180
+  50    profitgier                  7     84.72    2.6423   9.562  15.177
+
+── HÄUFIGE BIGRAMME IM KONTEXT ─────────────────────────────────────────
+  nie kaufen                                   47×
+  staatsbürger glaubens                                 11×
+  deutscher staatsbürger                             6×
+  staat bürger                                   4×
+  warenhäusern voll                                     4×
+  echt lichen                                   4×
+  lichen geschäftsmann                            4×
+  grosse konzerne                                 4×
+  geschenken geschäften                               4×
+  kaufpalästen gegenüber                                4×
+  profitgier vorgeht                                  4×
+  firma wertheim                                 4×
+  neun zehntel                                  4×
+  zehntel deutsche                                 4×
+  kaufen gebot                                    3×
+  central verein                                   3×
+  bürger glaubens                                 3×
+  vossische zeitung                                  3×
+  geschäfte bürger                                   3×
+  niemals kaufen                                   3×
+
+── KWIC-KONKORDANZ (max. 50 Belege) ─────────────────────────────
+  Dokument                       ← Kontext                           KEYWORD      Kontext →
+  ------------------------------------------------------------------------------------------
+  OCR 01. Ausgabe 1930 Stadtwä    der oberbürgermeister wohl von dem [JUDEN] hilferding von derartigen begriffsv
+  OCR 01. Ausgabe 1930 Stadtwä    geld zum de arme feiner der wiener [JUDE] hilferding ist vr sbd port aus da c
+  OCR 01. Ausgabe 1930 Stadtwä   e t s i kilometer und pfg den       [JUDEN] meiden h fiege jjun goldstrasse sie
+  OCR 01. Ausgabe 1930 Stadtwä    johannisstr fernruf gebot nie beim [JUDEN] kaufen gebot in erster linie unsere
+  OCR 01. Ausgabe 1930 Stadtwä    gebot unter keinen um ständen beim [JUDEN] kaufen autovermietung tel saio bah 
+  OCR 01. Ausgabe 1930 Stadtwä    stadtwächter osnabrüg januar seite [JÜDISCHEN] abzahlungsgeschäfte s w i o n r d
+  OCR 01. Ausgabe 1930 Stadtwä   zialistischen baptistenpriester und [JUDEN] in fürzeiter zeit überhaupt eins la
+  OCR 01. Ausgabe 1930 Stadtwä   willen seines damit machen sich die [JUDEN] zunusse so empfiehlt ein baptisten 
+  OCR 01. Ausgabe 1930 Stadtwä   ei prediger seiner gemeinde auch im [JUDEN] den lieben näch dadurch beheben das
+  OCR 01. Ausgabe 1930 Stadtwä   d wirtschaftliche machtstellung der [JUDEN] ist demnach ein den absoluten bankr
+  OCR 01. Ausgabe 1930 Stadtwä   ichsregierung die zum rücktritt des [JUDEN] hilferding reform im nächsten jahre
+  OCR 01. Ausgabe 1930 Stadtwä   die ringende not des tums unverlegt [JÜD] auch die massen der bauern ist wirk
+  OCR 01. Ausgabe 1931-1.txt      watt seggste nu neues von laer das [JUDEN] denkmal verfassungs verlessung nosf
+  OCR 02. Ausgabe 1930-1.txt     wagen spezialhaus markt telefon den [JUDEN] meiden an die geschöäftsleute sie k
+  OCR 02. Ausgabe 1930-1.txt     n geschäitsleuten den besonders von [JÜDISCHER] seite überspitzten konkurrenzkampf 
+  OCR 02. Ausgabe 1930-1.txt     nderwagen spezialhaus uz eeeles den [JUDEN] meiden an die geschäftsleute sie to
+  OCR 02. Ausgabe 1930-1.txt     t g r n t gebot nie beim            [JUDEN] kaufen dienstag an abendss uhr mote
+  OCR 02. Ausgabe 1930-1.txt     d bewilligt wür die warenhäufer und [JUDEN] bazare sind in diesen tagen den was
+  OCR 02. Ausgabe 1930-1.txt     r zurück ein unternehmen nach dem e [JUDE] im laufe der jahre verstanden die g
+  OCR 02. Ausgabe 1930-1.txt     litik die ja auch gustav stresemann [JUDEN] erhaltet ihr in neun von zehn fälle
+  OCR 02. Ausgabe 1930-1.txt     d bewilligt wür tie warenhäuser und [JUDEN] bazare sind in diesen tagen den iwa
+  OCR 02. Ausgabe 1930-1.txt     n nach dem die tante sc hminkt fich [JUDE] iin laufe der jahre verstanden die 
+  OCR 02. Ausgabe 1930-1.txt      usw verkauft werden sollen und vom [JUDEN] auch tante kisling schreit im umgek
+  OCR 02. Ausgabe 1930-1.txt     litik die ja auch gustav stresemann [JUDEN] erhaltet ihr in neun von zehn fälle
+  OCR 02. Ausgabe 1931-1.txt     rieb amt der sarmatjude von england [JÜDISCHE] frechheit erinnerung gitadti wächte
+  OCR 02. Ausgabe 1931-1.txt     d vaher schleunigst abgebaut werden [JUDEN] zu kaufen sv wären leerwohnungen vo
+  OCR 02. Ausgabe 1931-1.txt     rstehender form zeugnis durch einen [JÜDISCHEN] warenhausbetrieb doh als der winter
+  OCR 02. Ausgabe 1931-1.txt     serer behauptungen in bezug auf den [JUDEN] be das ist ja meiner gib ihn her
+  OCR 02. Ausgabe 1931-1.txt     e fic das alle werden einen anderen [JUDEN] der no ss nicht der andre jprass mi
+  OCR 02. Ausgabe 1931-1.txt     nahweisen könnte dass auch fie ihre [JUDEN] hehe end jiit deutschland kamen die
+  OCR 02. Ausgabe 1931-1.txt     hereingebro im gefängnis sassen der [JUDE] hatry kennt die kraft wir berichtet
+  OCR 02. Ausgabe 1931-1.txt     htjuden herrenloses gut sei das der [JUDE] hektar angegeben gegen den märz sin
+  OCR 02. Ausgabe 1931-1.txt     esetzbuch der welt gemeinschaft der [JUDEN] gestatte die nichtjuden zu betrü gi
+  OCR 02. Ausgabe 1931-1.txt     r rabbiner nicht erst zu sagen dass [JUDEN] sich reichtum die foigenve geschich
+  OCR 02. Ausgabe 1931-1.txt     mes genieinschaft er heivatete eine [JÜDIN] rat um sich und riet mit ihm lange
+  OCR 02. Ausgabe 1931-1.txt     ch aus freitod die betrügereien des [JUDEN] hatry bis zum höchst auch noh einma
+  OCR 02. Ausgabe 1931-1.txt      zehn mitnuten kauft nicht mehr bei [JUDEN] er ist als kämpfer in entbehren bei
+  OCR 02. Ausgabe 1931-1.txt     ellt ist wieviel existenzen dur die [JÜDISCHEN] warenhäuser den und die medifamentö
+  OCR 02. Ausgabe 1931-1.txt     vie mit welcher unverfrorenheit sic [JUDEN] über die zärtlich von hinten auf di
+  OCR 02. Ausgabe 1931-1.txt     rhalten verabfolgt unser freund dem [JUDEN] eine gerichtes gegen einen solhen v
+  OCR 02. Ausgabe 1931-1.txt      aufstehen ver die warenhäusler und [JUDEN] nicht zu behaupten du selige gnaden
+  OCR 02. Ausgabe 1931-1.txt     ristliche zentrum das in berlin den [JUDEN] chr karesky als wahlkandidaten auf 
+  OCR 03. Ausgabe 1931-1.txt     er ist von der sürgersteuer befreit [JÜDISCHE] methoden im hristiichen warenhaus l
+  OCR 03. Ausgabe 1931-1.txt     deutschland in religiöser gelen die [JUDEN] zind deutse nr seite der stadt wäch
+  OCR 03. Ausgabe 1931-1.txt     e dass die beiden gauner galizische [JUDEN] sind verschweigt ein fehlbetrag von
+  OCR 04. Ausgabe 1931_001-1.t    riesenschwindel in hamburg warnung [JÜDISCHES] geschäft erfolgreiche tätigkeit des
+  OCR 04. Ausgabe 1931_001-1.t    vst angefeindet und verleumdet pie [JUDEN] sind deutsgehlanads ungiven erriea 
+  OCR 04. Ausgabe 1931_001-1.t    es mt worden wie der stadt wächter [JUDEN] judengenossen und wie sie au medern
+  OCR 04. Ausgabe 1931_001-1.t   st dem deuts en vol it unseres kamp [JUDEN] wphaltschmo s der spiesser sich imm
+  OCR 04. Ausgabe 1931_001-1.t   rgeblich nach einem vierteljahr die [JÜDISCHE] vieh und getreidehändlerplage die s
+
+========================================================================
