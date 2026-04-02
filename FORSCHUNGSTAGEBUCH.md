@@ -43,16 +43,18 @@ auf einer soliden Datenbasis fundiert.
 **Einschränkung:** Einheitliche 0.9-Werte deuten darauf hin, dass 
 die Texte bereits manuell korrigiert wurden.
 
-## Eintrag 5 – 02.04.2026: Topic Modeling mit impresso/MALLET
+## Eintrag 5 – 02.04.2026: Topic Modeling mit impresso MALLET
 **Was:** Skript 05_impresso_topic_modeling.py erstellt und ausgeführt
-**Werkzeug:** impresso-pipelines MalletPipeline (v0.4.3.24), MALLET 2.0.8, Modell tm-de-all-v2.0
-**Warum:** Thematische Struktur des Korpus quantitativ erfassen,
-um inhaltliche Schwerpunkte und deren Verteilung zu analysieren
-**Ergebnis:** 136 Dateien, 816 Topic-Zuweisungen (ca. 6 Topics pro Datei ≥2%),
-6 Kernthemen durchgängig im gesamten Korpus präsent (tp15, tp89, tp58, tp26, tp11, tp85)
-**Interpretation:** Thematische Homogenität des Stadtwächters bestätigt –
-dieselben Kernthemen ziehen sich durch alle Jahrgänge (1929–1931)
-**Technische Entscheidung:** MalletPipeline statt LDATopicsPipeline verwendet,
-da ldatopics intern das mallet-Modul nutzt (kein eigenständiges ldatopics-Modul).
-Abhängigkeiten: Java 11 (OpenJDK), MALLET 2.0.8 (ältere Version nötig wegen
-Serialisierungs-Inkompatibilität in MALLET 202108), python-dotenv, boto3, jpype1
+**Werkzeug:** impresso-pipelines MalletPipeline (LDA, 100 Topics)
+**Ergebnis:** 136 Dateien, 61 aktive Topics, 2.177 Topic-Zuweisungen
+**Top-5-Topics mit Interpretation:**
+- tp12 (Religion & Politik): recht, kirche, freiheit, volk, staat
+- tp46 (Weltanschauung): welt, leben, mensch, geschichte, natur
+- tp22 (Kommentar): zeitung, frage, arbeit, interesse
+- tp89 (Presse & Medien): zeitung, presse, artikel, blatt, leser
+- tp83 (Geographie): berlin, münchen, wien, frankfurt, köln
+**Interpretation:** Dominanz von politisch-religiösem Diskurs und 
+Pressekritik – typisch für antisemitische Meinungspresse der Weimarer 
+Republik. tp89 deutet auf bewusste Medienkritik als diskursive Strategie hin.
+**Methodische Entscheidung:** impresso MALLET-Pipeline gewählt, weil sie 
+speziell für historische Zeitungstexte auf Deutsch optimiert ist.

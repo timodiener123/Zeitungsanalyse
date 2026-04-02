@@ -22,13 +22,20 @@ topic_counter = Counter()
 
 for txt_file in txt_files:
     text = txt_file.read_text(encoding="utf-8", errors="replace")
+    # Zeilenumbrüche durch Leerzeichen ersetzen, damit SpaCy keine \n-Tokens erzeugt
+    # (diese würden die CSV-Zeile für MALLET umbrechen und nur Textfragmente liefern)
+    text = text.replace("\n", " ").replace("\r", " ")
     result = pipeline(text, language="de")
 
-    # result ist eine Liste von Dicts mit "topics"-Feld
-    if result and isinstance(result, list) and "topics" in result[0]:
-        topics = result[0]["topics"]
-    else:
-        topics = result if isinstance(result, list) else []
+    # result ist eine Liste von Dicts mit "topics"-Feld.
+    # result[0] ist die CSV-Headerzeile (id/class/text → Defaultwerte), result[1] das echte Dokument.
+    actual = None
+    if result and isinstance(result, list):
+        for r in result:
+            if isinstance(r, dict) and r.get("ci_id") not in ("id", None, ""):
+                actual = r
+                break
+    topics = actual.get("topics", []) if actual else []
 
     # Dominant-Topic = höchste Wahrscheinlichkeit
     if topics:
