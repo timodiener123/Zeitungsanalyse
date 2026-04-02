@@ -92,3 +92,18 @@ vortrainierte Modelle, weil sie direkt auf dem Zielkorpus trainiert wird.
 **Interpretation:** Konstant hoher Aggressionspegel über alle Jahrgänge (~34/1000).
 Ausreißer 1930 (Max 68,2) deutet auf einzelne besonders aggressive Ausgaben.
 Durchgehend aggressiver Grundton bestätigt den Charakter als Kampfblatt.
+
+## Eintrag 8 – 02.04.2026: Seedterm-Analyse (antisemitische Kernterme)
+**Was:** Skript 08_seedterm_analyse.py erstellt und ausgeführt
+**Werkzeug:** Regelbasierte Frequenzanalyse, 22 Seed-Terme, Normalisierung auf ppm
+**Ergebnis:** Frequenzen aller 22 Terme nach Jahrgang (absolut + ppm)
+**Zentrale Befunde:**
+- juden: 1929=1135 ppm → 1930=1514 ppm (Peak) → 1931=960 ppm
+- hitler: 1929=42 ppm → 1930=107 ppm → 1931=63 ppm
+- nsdap: 1929=4 ppm → 1930=81 ppm → 1931=57 ppm
+- bolschewismus: 1929=4 ppm → 1930=33 ppm → 1931=73 ppm (steigend)
+- volksgenosse: 1929=4 ppm → 1930=13 ppm → 1931=44 ppm (steigend)
+**Interpretation:** 1930 ist das antisemitisch intensivste Jahr (Reichstagswahl
+Sept. 1930, NSDAP-Aufstieg). bolschewismus und volksgenosse steigen bis 1931
+weiter – die Sprache wird zunehmend NS-ideologisch geprägt.
+Zeitliche Phaseneinteilung aus NMF-Analyse unabhängig bestätigt.
