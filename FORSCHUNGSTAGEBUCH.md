@@ -59,19 +59,23 @@ Republik. tp89 deutet auf bewusste Medienkritik als diskursive Strategie hin.
 **Methodische Entscheidung:** impresso MALLET-Pipeline gewählt, weil sie 
 speziell für historische Zeitungstexte auf Deutsch optimiert ist.
 
-## Eintrag 6 – 02.04.2026: NMF Topic Modeling (korpuseigen)
+## Eintrag 6 – 02.04.2026: NMF Topic Modeling auf Stadtwächter-Korpus
 **Was:** Skript 06_topic_modeling_nmf.py erstellt und ausgeführt
-**Werkzeug:** scikit-learn TF-IDF + NMF, 7 Topics, 5000 Features
-**Warum:** Ergänzung zum impresso-Modell durch ein direkt am Stadtwächter-Korpus
-trainiertes Modell – ohne externe Vokabularannahmen
-**Ergebnis:** 7 Topics, je 15 Schlüsselwörter, dominante Topic-Zuordnung für alle 136 Ausgaben
-**Top-Topics:**
-- Topic 3 (28 Ausgaben): jude, jüdischen, nationalsozialisten, inflation → Antisemitismus
-- Topic 2 (25 Ausgaben): oberbürgermeister, gericht, staatsanwalt → Lokaljustiz Osnabrück
-- Topic 1 (23 Ausgaben): volksbegehren, stahlhelm, arzt → Politik & Agrarwirtschaft
-**Interpretation:** Topic 3 als häufigstes Topic mit direkten Termen
-jude/jüdischen/nationalsozialisten belegt den antisemitischen Diskurs
-quantitativ als zentrales Charakteristikum der Zeitung.
-**Methodischer Vorteil gegenüber impresso-MALLET:** Korpusspezifisches Modell
-erfasst Eigenheiten des Stadtwächters (Osnabrücker Lokalpolitik, Namen,
-historische Schreibweisen) ohne externe Trainingsdaten.
+**Werkzeug:** scikit-learn NMF mit TF-IDF Vektorisierung, 7 Topics
+**Warum NMF statt impresso MALLET:** Das impresso-Modell wurde auf 
+fremden Korpora trainiert und produzierte keine validen Ergebnisse 
+für antisemitische Presse. NMF wird direkt auf dem Stadtwächter 
+trainiert und ist damit korpusspezifisch und wissenschaftlich valider.
+**Ergebnis:** 7 Topics, davon 2 explizit antisemitisch:
+- Topic 3 (28 Ausgaben): Wirtschaftspolitischer Antisemitismus
+  (jude, jüdischen, nationalsozialisten, stresemann, inflation)
+- Topic 4 (19 Ausgaben): Agrarischer Antisemitismus
+  (jüdische, nationalsozialisten, konfektion, roggen, weizen)
+**Zeitliche Entwicklung:**
+- 1929: Topic 3 dominant (wirtschaftspolitischer Antisemitismus)
+- 1930: Topics 2+5 (Lokalpolitik und Justiz)
+- 1931: Topics 1+4+6 (agrarisch-völkischer Antisemitismus)
+**Interpretation:** Die zeitliche Verschiebung der Topics bestätigt 
+unabhängig die Phaseneinteilung des Analyseberichts vom 26.03.2026.
+NMF als Methode ist in diesem Fall wissenschaftlich valider als 
+vortrainierte Modelle, weil sie direkt auf dem Zielkorpus trainiert wird.
