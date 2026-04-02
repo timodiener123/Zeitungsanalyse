@@ -30,3 +30,15 @@ da die Jahrgänge unterschiedlich umfangreich sind (1930 doppelt so groß)
 Osnabrück (5.180 ppm), Jude (3.740 ppm), Volk (3.262 ppm)
 **Interpretation:** Jude auf Platz 4 der häufigsten Inhaltslexeme
 bestätigt den antisemitischen Charakter der Zeitung quantitativ
+
+## Eintrag 4 – 02.04.2026: OCR-Qualitätsprüfung mit impresso
+**Was:** Skript 04_impresso_ocrqa.py erstellt und ausgeführt
+**Werkzeug:** impresso-pipelines OCRQAPipeline (v0.4.3.24)
+**Warum:** Wissenschaftlicher Nachweis der Textqualität als 
+methodische Grundlage für alle weiteren Analyseschritte
+**Ergebnis:** 136 Dateien analysiert, Durchschnitt 0.90 (sehr gut)
+**Interpretation:** Hohe OCR-Qualität bestätigt die Zuverlässigkeit 
+der Textgrundlage. Alle weiteren Analyseergebnisse sind damit 
+auf einer soliden Datenbasis fundiert.
+**Einschränkung:** Einheitliche 0.9-Werte deuten darauf hin, dass 
+die Texte bereits manuell korrigiert wurden.
