@@ -1,0 +1,123 @@
+======================================================================
+ANALYSEBERICHT: WIRTSCHAFTLICHER ANTISEMITISMUS IM STADTWÄCHTER
+Osnabrück 1929–1931  |  Korpus: 136 Ausgaben
+Methode: Kookkurrenzanalyse jüdisch*-Anker ± 20-Wort-Fenster
+======================================================================
+
+1. GESAMTBEFUND
+----------------------------------------
+Wirtschaftsantisemitische Zitate gesamt: 1011
+  1929: 242 Zitate
+  1930: 645 Zitate
+  1931: 124 Zitate
+
+2. BEGRIFFSHÄUFIGKEITEN PRO JAHR
+----------------------------------------
+
+  1929:
+    geschäft           79 Nennungen
+    geld               73 Nennungen
+    kaufen             67 Nennungen
+    bank               52 Nennungen
+    kapital            35 Nennungen
+    finanz             34 Nennungen
+    warenhaus          34 Nennungen
+    wucher              9 Nennungen
+    konkurrenz          6 Nennungen
+    zins                3 Nennungen
+
+  1930:
+    kaufen            385 Nennungen
+    geschäft          310 Nennungen
+    geld              116 Nennungen
+    warenhaus          69 Nennungen
+    kapital            61 Nennungen
+    bank               47 Nennungen
+    boykott            47 Nennungen
+    finanz             30 Nennungen
+    wucher             25 Nennungen
+    laden              16 Nennungen
+    konkurrenz          8 Nennungen
+    zins                7 Nennungen
+    monopol             2 Nennungen
+
+  1931:
+    geld               43 Nennungen
+    geschäft           36 Nennungen
+    kaufen             27 Nennungen
+    zins               24 Nennungen
+    kapital            19 Nennungen
+    finanz             13 Nennungen
+    bank               12 Nennungen
+    warenhaus          10 Nennungen
+    laden               4 Nennungen
+    boykott             4 Nennungen
+    wucher              3 Nennungen
+    monopol             1 Nennungen
+
+
+3. INTERPRETATION
+----------------------------------------
+1929 – Globaler Finanzantisemitismus:
+  Dominant sind Geld, Bank, Kapital. Juden erscheinen als abstrakte
+  internationale Finanzmacht. Wucher wird mit Luther-Zitaten belegt.
+  Noch kein lokaler Bezug auf Osnabrücker Geschäfte.
+
+1930 – Lokale Boykottkampagne auf dem Höhepunkt:
+  Kaufen (385) und Geschäft (310) explodieren. Boykott taucht erstmals
+  als eigenständiger Begriff auf. Die Zeitung druckt wöchentliche
+  Firmenlisten mit namentlicher Judengeschäft-Markierung.
+  Gerichtliche Verurteilungen zwingen ab Ausgabe 38 zur Mäßigung.
+
+1931 – Rückzug auf abstrakte Finanzrhetorik:
+  Kaufen und Geschäft brechen massiv ein. Zins steigt auf 24 —
+  die Zeitung weicht auf Zinswucher-Rhetorik aus, da direkte
+  Boykottaufrufe gerichtlich untersagt wurden.
+
+
+4. ORIGINALZITAT-KOSTPROBEN
+----------------------------------------
+
+Jahr: 1929  |  Begriff: 'wucher'
+Quelle: OCR 14 korrekt.txt
+Zitat:
+  "Dieb 10 Gulden stiehlet, so muß er hängen, raubet er auf der Straße, so ist sein Kopf verloren. Aber ein Jude, wenn er 10 Tonnen Goldes stiehlet, und raubet durch seinen Wucher, so ist er lieber denn Gott selbst. Möcht jemand..."
+----------------------------------------------------------------------
+
+Jahr: 1929  |  Begriff: 'kapital'
+Quelle: 16. Ausgabe 1929 OCR korrekt.txt
+Zitat:
+  "Juden und ihr Klüngel amüsieren sich, wo Millionen darben. Juden und ihr Klüngel pfeifen den Ton in der deutschen Republik. Juden und ihr Klüngel machen das einstmals große deutsche Reich zur Kolonie des internationalen Kapitals. Und da sollen wir die Etappen..."
+----------------------------------------------------------------------
+
+Jahr: 1930  |  Begriff: 'boykott'
+Quelle: 08. Ausgabe 1930-1.txt
+Zitat:
+  "untersagt, in der Wochenschrift „Der Stadtwächter“, Unabhängiges Organ für freie Meinung in Stadt und Land, durch Schmähungen und Verunglimpfungen der Juden zu einem Boykott der Geschäfte der jüdischen Bürger Osnabrücks aufzufordern. 2. Der Antrag, anzuordnen, daß der erkennende Teil dieser einstweiligen..."
+----------------------------------------------------------------------
+
+Jahr: 1930  |  Begriff: 'warenhaus'
+Quelle: 07. Ausgabe 1930-1.txt
+Zitat:
+  "zersetzende Element der Judenrasse findet im Geschäftsleben seinen Ausdruck im Geldgeschäft und im alles erdrückenden Warenhaus, das ein Produkt des jüdischen Charakters, also der jüdischen Rasse ist. Der Jude führt seine Profitgier rücksichtslos zum Siege, auf Kosten des deutschen Volkes, das..."
+----------------------------------------------------------------------
+
+Jahr: 1931  |  Begriff: 'zins'
+Quelle: 04. Ausgabe 1931.txt
+Zitat:
+  "um die Josephskirche Was geht in der „Herberge zur Heimat“ vor? Unerhörter Zinswucher – Riesenschwindel in Hamburg – Warnung – Jüdisches Geschäft – Erfolgreiche Tätigkeit des Stadtgartenoberinspektors Freytag Den vielfachen Gerüchten, die uns aus dem Bereich der Josephspfarre zugingen, wollen wir..."
+----------------------------------------------------------------------
+
+Jahr: 1931  |  Begriff: 'geschäft'
+Quelle: 01. Ausgabe 1931-1.txt
+Zitat:
+  "überschütteten – der stille Ratgeber war bestimmt kein tiefer Denker, ich hab ihn nie dafür gehalten – und eine vom jüdischen Geschäftsgeist vergiftete Presse gegen mich und meine Getreuen mobil machten, dachten sie, mich in die Verteidigung zu drängen. Ich habe..."
+----------------------------------------------------------------------
+
+
+5. DATEIEN
+----------------------------------------
+  wirtschaft_zitate.csv          – 1011 Originalzitate
+  wirtschaft_begriffe_jahre.csv  – Begriffszählungen pro Jahr
+  wirtschaft_details_plot.png    – Balkendiagramm Top-5 pro Jahr
+  analysebericht_wirtschaft.txt  – dieser Bericht

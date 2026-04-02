@@ -1,0 +1,51 @@
+Rang,Name,Typ_(NER),Anmerkung,Score,Bullet-Nennungen,NER-Nennungen
+1,Schulenberg,Person,,28,11,6
+2,Franz Lippmann,Person,,27,2,23
+3,Dehne & Sopp,Organisation,,27,7,13
+4,Gottfried Karrenbrock,Person,,26,2,22
+5,Samson David,Person,Judengeschäft,23,4,15
+6,Otto Loeb,Person,Judengeschäft,23,4,15
+7,Caroline Tweer,Person,,22,7,8
+8,Mantelhaus Strodthoff,Person,christliches Geschäft,19,4,11
+9,Philipp,Person,,19,3,13
+10,Gersie,Person,,18,0,18
+11,Arbeitsloser Schlosser,Person,,17,5,7
+12,Justus Grewe,Person,,17,2,13
+13,Johannismauer,Person,,17,0,17
+14,Kamp,Person,,17,0,17
+15,Schönfeld,Person,,16,3,10
+16,Adolf König,Person,,15,5,5
+17,Bünemann,Person,,15,0,15
+18,Th. Bünemann,—,,14,7,0
+19,Karl Münter,Person,,14,2,10
+20,F. Fritsch,Person,,14,2,10
+21,Franz Schulze,Person,,14,1,12
+22,Alexander,Person,,14,3,8
+23,Hut-Meyer,Person,,14,3,8
+24,Stadt-Wächter-Partei,Organisation,,14,0,14
+25,Hackmann,Person,,14,0,14
+26,Heinrich Laumann,Person,,13,4,5
+27,Markus,Person,,13,3,7
+28,Rezept Dr. Schierbaum's,Person,,13,0,13
+29,Zeitungs-Vertrieb Ludwig Mölk,Person,,12,2,8
+30,J. Bernat,Person,,12,3,6
+31,Herbert Cröplin,Person,,12,3,6
+32,Hans Pühringer,Person,,12,2,8
+33,Frank,Person,,12,3,6
+34,Elsa Buller,Person,,12,1,10
+35,Böttchermeister,Person,,12,2,8
+36,Maskenkostüme,Person,,12,0,12
+37,Fahrradhaus Schinkel,Person,,11,3,5
+38,Bodden,Person,,11,4,3
+39,Turmstr,Person,,11,0,11
+40,Ang,Organisation,,11,0,11
+41,Drei-Stern-Verlag,Organisation,,11,0,11
+42,Bezugsquelle,Person,,11,0,11
+43,Zeitungshalle Neumarkt,Person,,10,2,6
+44,Zeitungs-Vertrieb Rönker,Person,,10,2,6
+45,Kartoffeln (Berlin,—,,10,5,0
+46,Franz Lippmann (Buerschestr. 103),—,,10,5,0
+47,Mosbach,Organisation,,10,4,2
+48,Heymann,Person,,10,3,4
+49,Fl. 3,—,,10,5,0
+50,Liebigstr,Person,,10,0,10
