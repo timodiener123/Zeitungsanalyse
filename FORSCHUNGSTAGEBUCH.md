@@ -79,3 +79,16 @@ trainiert und ist damit korpusspezifisch und wissenschaftlich valider.
 unabhängig die Phaseneinteilung des Analyseberichts vom 26.03.2026.
 NMF als Methode ist in diesem Fall wissenschaftlich valider als 
 vortrainierte Modelle, weil sie direkt auf dem Zielkorpus trainiert wird.
+
+## Eintrag 7 – 02.04.2026: Aggressionsanalyse mit SentiWS
+**Was:** Skript 07_aggressionsanalyse.py erstellt und ausgeführt
+**Werkzeug:** SentiWS v2.0 Negativ-Lexikon (17.806 Wortformen), regelbasiert
+**Ergebnis:** Aggressions-Dichte (negative Wörter pro 1000 Wörter) für alle 136 Ausgaben
+**Zusammenfassung nach Jahrgang:**
+- 1929 (35 Ausgaben): Ø 34,3 | Min 27,6 | Max 41,7
+- 1930 (69 Ausgaben): Ø 33,8 | Min 25,5 | Max 68,2
+- 1931 (31 Ausgaben): Ø 34,2 | Min 25,7 | Max 40,4
+**Häufigste Aggressionswörter:** kampf, not, inflation, kritik, beleidigung, ende, schwer
+**Interpretation:** Konstant hoher Aggressionspegel über alle Jahrgänge (~34/1000).
+Ausreißer 1930 (Max 68,2) deutet auf einzelne besonders aggressive Ausgaben.
+Durchgehend aggressiver Grundton bestätigt den Charakter als Kampfblatt.
