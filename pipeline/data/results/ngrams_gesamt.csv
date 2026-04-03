@@ -1,0 +1,61 @@
+ngram,n,abs,per_million,is_antisemitic
+deutsch volk,2,527,1003.12,False
+seite osnabrück,2,320,609.11,False
+frei presse,2,303,576.75,False
+million mark,2,201,382.6,False
+stadt land,2,175,333.11,False
+seite seite,2,167,317.88,False
+weizen roggen,2,148,281.71,False
+frei meinung,2,146,277.91,False
+roggen hafer,2,146,277.91,False
+meinung stadt,2,144,274.1,False
+organ frei,2,143,272.19,False
+stadt osnabrück,2,132,251.26,False
+fortsetzung seite,2,127,241.74,False
+postscheckkonto hannover,2,122,232.22,False
+manuskript zurückgesandt,2,119,226.51,False
+unabhängig organ,2,114,216.99,False
+heinrich schierbaum,2,113,215.09,False
+jude kaufen,2,111,211.28,True
+herr oberbürgermeister,2,107,203.67,False
+osnabrücker volkszeitung,2,99,188.44,False
+deutsch arbeiter,2,98,186.54,False
+hannover fernsprecher,2,91,173.21,False
+herr schierbaum,2,91,173.21,False
+geschäftsstelle redaktion,2,90,171.31,False
+deutsch volke,2,89,169.41,False
+page seite,2,88,167.5,False
+stelle veröffentlicht,2,86,163.7,False
+verlag geschäftsstelle,2,85,161.79,False
+donnerstag nachmittag,2,85,161.79,False
+veröffentlicht beitrag,2,85,161.79,False
+weizen roggen hafer,3,145,276.0,False
+organ frei meinung,3,143,272.19,False
+frei meinung stadt,3,142,270.29,False
+meinung stadt land,3,142,270.29,False
+seite seite osnabrück,3,136,258.87,False
+unabhängig organ frei,3,114,216.99,False
+postscheckkonto hannover fernsprecher,3,90,171.31,False
+verlag geschäftsstelle redaktion,3,85,161.79,False
+stelle veröffentlicht beitrag,3,85,161.79,False
+veröffentlicht beitrag übernehmen,3,85,161.79,False
+roggen hafer braugerste,3,84,159.89,False
+anzeigenpreis achtgespalten millimeterzeil,3,81,154.18,False
+page seite osnabrück,3,80,152.28,False
+gebot jude kaufen,3,77,146.57,True
+zugesandt manuskript zurückgesandt,3,72,137.05,False
+roggen weizen hafer,3,68,129.44,False
+geschäftsstelle redaktion osnabrück,3,67,127.53,False
+hannover fernsprecher geschäftszeit,3,66,125.63,False
+fernsprecher geschäftszeit anzeigenannahme,3,66,125.63,False
+unverlangt zugesandt manuskript,3,66,125.63,False
+anfrage allgemeinheit interessieren,3,63,119.92,False
+allgemeinheit interessieren stelle,3,63,119.92,False
+schlagvorderstr postscheckkonto hannover,3,63,119.92,False
+interessieren stelle beantworten,3,62,118.01,False
+stelle beantworten voll,3,62,118.01,False
+osnabrück schlagvorderstr postscheckkonto,3,62,118.01,False
+briefkasten anfrage allgemeinheit,3,60,114.21,False
+fernsprecher anzeigenpreis achtgespalten,3,60,114.21,False
+weizen hafer gerste,3,60,114.21,False
+leser sagen stelle,3,59,112.3,False

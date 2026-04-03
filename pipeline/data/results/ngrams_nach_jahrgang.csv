@@ -1,0 +1,181 @@
+year,ngram,n,abs,per_million,is_antisemitic
+1929,deutsch volk,2,175,1417.05,False
+1929,frei presse,2,60,485.85,False
+1929,million mark,2,60,485.85,False
+1929,schierbaum osnabrück,2,56,453.46,False
+1929,heinr schierbaum,2,50,404.87,False
+1929,stadt osnabrück,2,49,396.77,False
+1929,osnabrück straße,2,45,364.38,False
+1929,herr kollege,2,43,348.19,False
+1929,stadt land,2,41,331.99,False
+1929,heinrich schierbaum,2,39,315.8,False
+1929,geschäftsstelle osnabrück,2,39,315.8,False
+1929,organ frei,2,37,299.6,False
+1929,frei meinung,2,37,299.6,False
+1929,meinung stadt,2,37,299.6,False
+1929,osnabrück sonntag,2,37,299.6,False
+1929,erscheint sonntag,2,36,291.51,False
+1929,sonntag preis,2,36,291.51,False
+1929,manuskript zurückgesandt,2,36,291.51,False
+1929,osnabrück verlag,2,36,291.51,False
+1929,verlag osnabrück,2,36,291.51,False
+1929,anzeigenpreis reichspfennig,2,36,291.51,False
+1929,anzeige bestimmt,2,36,291.51,False
+1929,bestimmt stelle,2,36,291.51,False
+1929,stelle übernehmen,2,36,291.51,False
+1929,übernehmen gewähr,2,36,291.51,False
+1929,gewähr geschäftsstelle,2,36,291.51,False
+1929,schriftleiter heinrich,2,35,283.41,False
+1929,zugesandt manuskript,2,34,275.31,False
+1929,zurückgesandt schriftleiter,2,34,275.31,False
+1929,einzelpreis anzeigenpreis,2,34,275.31,False
+1929,heinrich schierbaum osnabrück,3,37,299.6,False
+1929,organ frei meinung,3,37,299.6,False
+1929,frei meinung stadt,3,37,299.6,False
+1929,meinung stadt land,3,37,299.6,False
+1929,erscheint sonntag preis,3,36,291.51,False
+1929,schierbaum osnabrück verlag,3,36,291.51,False
+1929,anzeige bestimmt stelle,3,36,291.51,False
+1929,bestimmt stelle übernehmen,3,36,291.51,False
+1929,stelle übernehmen gewähr,3,36,291.51,False
+1929,übernehmen gewähr geschäftsstelle,3,36,291.51,False
+1929,gewähr geschäftsstelle osnabrück,3,36,291.51,False
+1929,schriftleiter heinrich schierbaum,3,35,283.41,False
+1929,zugesandt manuskript zurückgesandt,3,34,275.31,False
+1929,manuskript zurückgesandt schriftleiter,3,34,275.31,False
+1929,zurückgesandt schriftleiter heinrich,3,34,275.31,False
+1929,einzelpreis anzeigenpreis reichspfennig,3,34,275.31,False
+1929,reichspfennig anzeige bestimmt,3,34,275.31,False
+1929,anzeigenpreis reichspfennig reklamen,3,33,267.22,False
+1929,unverlangt zugesandt manuskript,3,31,251.02,False
+1929,reichspfennig reklamen reichspfennig,3,31,251.02,False
+1929,reklamen reichspfennig anzeige,3,31,251.02,False
+1929,sonntag preis vierteljährlich,3,30,242.92,False
+1929,preis vierteljährlich monatlich,3,30,242.92,False
+1929,osnabrück verlag osnabrück,3,28,226.73,False
+1929,anfrage allgemeinheit interessieren,3,28,226.73,False
+1929,allgemeinheit interessieren stelle,3,28,226.73,False
+1929,interessieren stelle beantworten,3,28,226.73,False
+1929,stelle beantworten voll,3,28,226.73,False
+1929,briefkasten anfrage allgemeinheit,3,27,218.63,False
+1929,beantworten voll erforderlich,3,26,210.53,False
+1930,deutsch volk,2,236,886.42,False
+1930,seite osnabrück,2,216,811.3,False
+1930,frei presse,2,186,698.62,False
+1930,seite seite,2,111,416.92,False
+1930,million mark,2,104,390.63,False
+1930,jude kaufen,2,94,353.07,True
+1930,stadt land,2,89,334.29,False
+1930,fortsetzung seite,2,79,296.73,False
+1930,herr oberbürgermeister,2,78,292.97,False
+1930,gebot jude,2,77,289.21,True
+1930,frei meinung,2,76,285.46,False
+1930,meinung stadt,2,75,281.7,False
+1930,organ frei,2,74,277.95,False
+1930,unabhängig organ,2,71,266.68,False
+1930,stadt osnabrück,2,67,251.65,False
+1930,weizen roggen,2,67,251.65,False
+1930,roggen hafer,2,66,247.9,False
+1930,heinrich schierbaum,2,65,244.14,False
+1930,redakteur jursch,2,64,240.39,False
+1930,postscheckkonto hannover,2,63,236.63,False
+1930,hannover fernsprecher,2,61,229.12,False
+1930,osnabrücker volkszeitung,2,61,229.12,False
+1930,geschäftsstelle redaktion,2,60,225.36,False
+1930,donnerstag nachmittag,2,59,221.61,False
+1930,manuskript zurückgesandt,2,56,210.34,False
+1930,verlag geschäftsstelle,2,55,206.58,False
+1930,osnabrücker buchdruckerei,2,55,206.58,False
+1930,anzeigenpreis achtgespalten,2,54,202.83,False
+1930,achtgespalten millimeterzeil,2,54,202.83,False
+1930,christlich geschäft,2,54,202.83,False
+1930,seite seite osnabrück,3,91,341.8,False
+1930,gebot jude kaufen,3,77,289.21,True
+1930,organ frei meinung,3,74,277.95,False
+1930,frei meinung stadt,3,73,274.19,False
+1930,meinung stadt land,3,73,274.19,False
+1930,unabhängig organ frei,3,71,266.68,False
+1930,weizen roggen hafer,3,66,247.9,False
+1930,postscheckkonto hannover fernsprecher,3,60,225.36,False
+1930,verlag geschäftsstelle redaktion,3,55,206.58,False
+1930,anzeigenpreis achtgespalten millimeterzeil,3,54,202.83,False
+1930,roggen hafer braugerste,3,41,154.0,False
+1930,page seite osnabrück,3,41,154.0,False
+1930,lohndruck osnabrücker buchdruckerei,3,40,150.24,False
+1930,stelle veröffentlicht beitrag,3,38,142.73,False
+1930,veröffentlicht beitrag übernehmen,3,38,142.73,False
+1930,geschäftsstelle redaktion osnabrück,3,37,138.97,False
+1930,hannover fernsprecher geschäftszeit,3,37,138.97,False
+1930,fernsprecher geschäftszeit anzeigenannahme,3,37,138.97,False
+1930,leser sagen stelle,3,37,138.97,False
+1930,sagen stelle veröffentlicht,3,37,138.97,False
+1930,seite osnabrück november,3,37,138.97,False
+1930,seite osnabrück dezember,3,36,135.22,False
+1930,schlagvorderstr postscheckkonto hannover,3,35,131.46,False
+1930,roggen weizen hafer,3,35,131.46,False
+1930,anfrage allgemeinheit interessieren,3,34,127.7,False
+1930,allgemeinheit interessieren stelle,3,34,127.7,False
+1930,osnabrück schlagvorderstr postscheckkonto,3,34,127.7,False
+1930,seite osnabrück oktober,3,34,127.7,False
+1930,interessieren stelle beantworten,3,33,123.95,False
+1930,stelle beantworten voll,3,33,123.95,False
+1931,deutsch volk,2,106,802.27,False
+1931,seite osnabrück,2,103,779.56,False
+1931,weizen roggen,2,81,613.06,False
+1931,roggen hafer,2,79,597.92,False
+1931,frei presse,2,57,431.41,False
+1931,seite seite,2,52,393.57,False
+1931,page seite,2,46,348.16,False
+1931,stadt land,2,44,333.02,False
+1931,fortsetzung seite,2,43,325.45,False
+1931,hafer braugerste,2,43,325.45,False
+1931,osnabrück april,2,40,302.74,False
+1931,herr reichskanzler,2,38,287.61,False
+1931,million mark,2,37,280.04,False
+1931,weizen hafer,2,36,272.47,False
+1931,deutsch reich,2,35,264.9,False
+1931,redaktion osnabrück,2,34,257.33,False
+1931,schierbaum gesundheitspudding,2,34,257.33,False
+1931,osnabrück januar,2,33,249.76,False
+1931,fortsetzung folgen,2,33,249.76,False
+1931,roggen weizen,2,33,249.76,False
+1931,hafer gerste,2,33,249.76,False
+1931,frei meinung,2,32,242.19,False
+1931,organ frei,2,31,234.63,False
+1931,meinung stadt,2,31,234.63,False
+1931,osnabrück schlagvorderstr,2,31,234.63,False
+1931,osnabrück märz,2,31,234.63,False
+1931,verlag geschäftsstelle,2,30,227.06,False
+1931,geschäftsstelle redaktion,2,30,227.06,False
+1931,postscheckkonto hannover,2,30,227.06,False
+1931,hannover fernsprecher,2,30,227.06,False
+1931,weizen roggen hafer,3,79,597.92,False
+1931,seite seite osnabrück,3,45,340.59,False
+1931,roggen hafer braugerste,3,43,325.45,False
+1931,page seite osnabrück,3,39,295.18,False
+1931,roggen weizen hafer,3,33,249.76,False
+1931,organ frei meinung,3,31,234.63,False
+1931,frei meinung stadt,3,31,234.63,False
+1931,meinung stadt land,3,31,234.63,False
+1931,seite osnabrück april,3,31,234.63,False
+1931,verlag geschäftsstelle redaktion,3,30,227.06,False
+1931,geschäftsstelle redaktion osnabrück,3,30,227.06,False
+1931,postscheckkonto hannover fernsprecher,3,30,227.06,False
+1931,hannover fernsprecher geschäftszeit,3,29,219.49,False
+1931,fernsprecher geschäftszeit anzeigenannahme,3,29,219.49,False
+1931,weizen hafer gerste,3,29,219.49,False
+1931,redaktion osnabrück schlagvorderstr,3,28,211.92,False
+1931,osnabrück schlagvorderstr postscheckkonto,3,28,211.92,False
+1931,schlagvorderstr postscheckkonto hannover,3,28,211.92,False
+1931,jude deutschland unglück,3,28,211.92,True
+1931,hamburg weizen roggen,3,28,211.92,False
+1931,fernsprecher anzeigenpreis achtgespalten,3,27,204.35,False
+1931,anzeigenpreis achtgespalten millimeterzeil,3,27,204.35,False
+1931,breslau weizen roggen,3,27,204.35,False
+1931,monatlich zuzüglich bestellgeld,3,26,196.78,False
+1931,montag donnerstag nachmittag,3,26,196.78,False
+1931,stettin weizen roggen,3,26,196.78,False
+1931,unabhängig organ frei,3,25,189.21,False
+1931,erscheint dienstag freitag,3,25,189.21,False
+1931,hafer braugerste fein,3,24,181.65,False
+1931,seite osnabrück januar,3,23,174.08,False
