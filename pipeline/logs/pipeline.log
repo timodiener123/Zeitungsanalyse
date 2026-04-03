@@ -1,0 +1,12 @@
+2026-04-02 21:49:34,935 [INFO] s0b_preprocessing: === s0b_preprocessing gestartet ===
+2026-04-02 21:49:34,936 [INFO] s0b_preprocessing: 136 Dateien gefunden.
+2026-04-02 21:49:34,937 [WARNING] s0b_preprocessing: Modell nicht gefunden: de_core_news_lg
+2026-04-02 21:49:37,207 [INFO] s0b_preprocessing: spaCy-Modell geladen: de_core_news_md
+2026-04-02 21:51:40,609 [INFO] s0b_preprocessing: Gespeichert: /home/nghm/Dokumente/Zeitungsanalyse/pipeline/data/processed/corpus_lemmatized.parquet
+2026-04-02 21:51:40,621 [INFO] s0b_preprocessing: === s0b_preprocessing abgeschlossen ===
+2026-04-03 09:25:46,487 [INFO] s0b_preprocessing: === s0b_preprocessing gestartet ===
+2026-04-03 09:25:46,490 [INFO] s0b_preprocessing: 136 Dateien gefunden.
+2026-04-03 09:25:46,490 [WARNING] s0b_preprocessing: Modell nicht gefunden: de_core_news_lg
+2026-04-03 09:25:48,762 [INFO] s0b_preprocessing: spaCy-Modell geladen: de_core_news_md
+2026-04-03 09:27:44,660 [INFO] s0b_preprocessing: Gespeichert: /home/nghm/Dokumente/Zeitungsanalyse/pipeline/data/processed/corpus_lemmatized.parquet
+2026-04-03 09:27:44,672 [INFO] s0b_preprocessing: === s0b_preprocessing abgeschlossen ===
