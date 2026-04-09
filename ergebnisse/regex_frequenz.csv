@@ -1,0 +1,43 @@
+year,term,category,abs,per_million,n_tokens,n_docs,top_forms
+1929,antisemit,NS-Terminologie,15,51.0,294297,35,"antisemitische, antisemitismus, antisemitischer, antisemit, antisemiten"
+1930,antisemit,NS-Terminologie,65,102.7,632829,69,"antisemitismus, antisemitische, antisemiten, antisemitischen, antisemitischem"
+1931,antisemit,NS-Terminologie,15,46.1,325225,31,"antisemitismus, antisemitische, antisemitischen, antisemit, antisemitischer"
+1929,bolschewismus,Ideologie,1,3.4,294297,35,bolschewismus
+1930,bolschewismus,Ideologie,20,31.6,632829,69,bolschewismus
+1931,bolschewismus,Ideologie,23,70.7,325225,31,bolschewismus
+1929,jude,Ethnisierung,589,2001.4,294297,35,"juden, jude, judentum, judenfrage, judenpresse"
+1930,jude,Ethnisierung,1564,2471.4,632829,69,"juden, jude, judentum, judengeschäft, judentums"
+1931,jude,Ethnisierung,495,1522.0,325225,31,"juden, jude, judentums, judenfrage, judentum"
+1929,judentum,Ethnisierung,23,78.2,294297,35,"judentum, judentums"
+1930,judentum,Ethnisierung,133,210.2,632829,69,"judentum, judentums"
+1931,judentum,Ethnisierung,19,58.4,325225,31,"judentums, judentum, judentume"
+1929,jüdisch,Ethnisierung,308,1046.6,294297,35,"jüdischen, jüdische, jüdischer, jüdisch, jüdisches"
+1930,jüdisch,Ethnisierung,818,1292.6,632829,69,"jüdischen, jüdische, jüdischer, jüdisch, jüdisches"
+1931,jüdisch,Ethnisierung,255,784.1,325225,31,"jüdischen, jüdische, jüdischer, jüdisches, jüdisch"
+1929,nationalsozialist,NS-Terminologie,124,421.3,294297,35,"nationalsozialisten, nationalsozialistischen, nationalsozialistische, nationalsozialist"
+1930,nationalsozialist,NS-Terminologie,302,477.2,632829,69,"nationalsozialisten, nationalsozialistische, nationalsozialistischen, nationalsozialist, nationalsozialistischer"
+1931,nationalsozialist,NS-Terminologie,90,276.7,325225,31,"nationalsozialisten, nationalsozialistischen, nationalsozialist, nationalsozialistische, nationalsozialistischer"
+1929,parasit,Dehumanisierung,7,23.8,294297,35,"parasiten, parasit, parasitenvolk, parasitentum"
+1930,parasit,Dehumanisierung,7,11.1,632829,69,"parasiten, parasitär"
+1931,parasit,Dehumanisierung,1,3.1,325225,31,parasiten
+1929,rasse,NS-Terminologie,38,129.1,294297,35,"rasse, rassenhygiene, rassenfrage, rassefremde, rasselbande"
+1930,rasse,NS-Terminologie,116,183.3,632829,69,"rasse, rassegenossen, rassen, rassemerkmale, rassenfrage"
+1931,rasse,NS-Terminologie,37,113.8,325225,31,"rasse, rassegenossen, rassenfrage, rassen, rassejuden"
+1929,schmarotzer,Dehumanisierung,5,17.0,294297,35,"schmarotzern, schmarotzer, schmarotzertum"
+1930,schmarotzer,Dehumanisierung,20,31.6,632829,69,"schmarotzer, schmarotzertum, schmarotzern, schmarotzerschwarm, schmarotzergeschlecht"
+1931,schmarotzer,Dehumanisierung,7,21.5,325225,31,"schmarotzer, schmarotzertum, schmarotzern"
+1929,sozialdemokrat,Ideologie,145,492.7,294297,35,"sozialdemokratie, sozialdemokratischen, sozialdemokraten, sozialdemokratische, sozialdemokrat"
+1930,sozialdemokrat,Ideologie,441,696.9,632829,69,"sozialdemokraten, sozialdemokratie, sozialdemokratischen, sozialdemokratische, sozialdemokrat"
+1931,sozialdemokrat,Ideologie,174,535.0,325225,31,"sozialdemokratie, sozialdemokratischen, sozialdemokraten, sozialdemokratische, sozialdemokrat"
+1929,stahlhelm,Ideologie,19,64.6,294297,35,"stahlhelm, stahlhelmer, stahlhelms, stahlhelmmitglied, stahlhelmmanöver"
+1930,stahlhelm,Ideologie,10,15.8,632829,69,"stahlhelm, stahlhelmers, stahlhelmverbot, stahlhelmverbots"
+1931,stahlhelm,Ideologie,86,264.4,325225,31,"stahlhelm, stahlhelms, stahlhelmer, stahlhelmbundesführer, stahlhelmkamerad"
+1929,ungeziefer,Dehumanisierung,2,6.8,294297,35,ungeziefer
+1930,ungeziefer,Dehumanisierung,3,4.7,632829,69,ungeziefer
+1931,ungeziefer,Dehumanisierung,1,3.1,325225,31,ungeziefer
+1929,vaterland,Ideologie,55,186.9,294297,35,"vaterland, vaterlandes, vaterlande, vaterlandsliebe, vaterlandsverteidigung"
+1930,vaterland,Ideologie,94,148.5,632829,69,"vaterland, vaterlandes, vaterlande, vaterlandsliebe, vaterlands"
+1931,vaterland,Ideologie,87,267.5,325225,31,"vaterland, vaterlandes, vaterlande, vaterlandsliebe, vaterlandsverräter"
+1929,volksgenosse,NS-Terminologie,31,105.3,294297,35,"volksgenossen, volksgenosse"
+1930,volksgenosse,NS-Terminologie,89,140.6,632829,69,"volksgenossen, volksgenosse"
+1931,volksgenosse,NS-Terminologie,71,218.3,325225,31,"volksgenossen, volksgenosse"
